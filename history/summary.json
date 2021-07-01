@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-30": 173,
+      "2021-07-01": 52,
+      "2021-06-30": 1440,
       "2021-06-29": 1236
     }
   },
@@ -31,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 456,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "time": 354,
+    "timeDay": 152,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   },
   {
@@ -55,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-06-30": 173,
+      "2021-07-01": 52,
+      "2021-06-30": 1440,
       "2021-06-29": 1236
     }
   },
@@ -65,16 +67,16 @@
     "icon": "https://favicons.githubusercontent.com/genesis.clouderg.com",
     "slug": "genesis-clouderg-com",
     "status": "up",
-    "uptime": "67.37%",
-    "uptimeDay": "67.37%",
-    "uptimeWeek": "67.37%",
-    "uptimeMonth": "67.37%",
-    "uptimeYear": "67.37%",
-    "time": 3353,
-    "timeDay": 3353,
-    "timeWeek": 3353,
-    "timeMonth": 3353,
-    "timeYear": 3353,
+    "uptime": "83.15%",
+    "uptimeDay": "91.60%",
+    "uptimeWeek": "83.15%",
+    "uptimeMonth": "83.15%",
+    "uptimeYear": "83.15%",
+    "time": 2316,
+    "timeDay": 3325,
+    "timeWeek": 2316,
+    "timeMonth": 2316,
+    "timeYear": 2316,
     "dailyMinutesDown": {
       "2021-06-30": 173,
       "2021-06-29": 287
