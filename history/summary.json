@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-02": 129,
+      "2021-07-02": 167,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
       "2021-06-29": 1236
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-02": 129,
+      "2021-07-02": 167,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
       "2021-06-29": 1236
@@ -68,12 +68,12 @@
     "url": "https://genesis.clouderg.com",
     "icon": "https://favicons.githubusercontent.com/genesis.clouderg.com",
     "slug": "genesis-clouderg-com",
-    "status": "up",
-    "uptime": "83.67%",
+    "status": "down",
+    "uptime": "83.82%",
     "uptimeDay": "83.78%",
-    "uptimeWeek": "83.67%",
-    "uptimeMonth": "83.67%",
-    "uptimeYear": "83.67%",
+    "uptimeWeek": "83.82%",
+    "uptimeMonth": "83.82%",
+    "uptimeYear": "83.82%",
     "time": 6017,
     "timeDay": 11569,
     "timeWeek": 6017,
