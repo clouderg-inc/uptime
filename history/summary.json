@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-17": 18,
+      "2022-07-18": 17,
+      "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
@@ -379,8 +380,7 @@
       "2021-07-22": 1440,
       "2021-07-21": 1440,
       "2021-07-20": 1440,
-      "2021-07-19": 1440,
-      "2021-07-18": 1440
+      "2021-07-19": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://favicons.githubusercontent.com/smtp.clouderg.com",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "96.43%",
+    "uptime": "96.44%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "62.36%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "65.65%",
     "uptimeYear": "96.26%",
-    "time": 2494,
-    "timeDay": 1189,
-    "timeWeek": 2369,
-    "timeMonth": 4481,
+    "time": 2491,
+    "timeDay": 103,
+    "timeWeek": 2223,
+    "timeMonth": 4436,
     "timeYear": 2552,
     "dailyMinutesDown": {
       "2022-07-14": 35,
@@ -443,7 +443,7 @@
     "icon": "https://favicons.githubusercontent.com/smtp2.clouderg.com",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "48.68%",
+    "uptime": "48.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -452,9 +452,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 775,
+    "timeYear": 777,
     "dailyMinutesDown": {
-      "2022-07-17": 18,
+      "2022-07-18": 17,
+      "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
@@ -635,8 +636,7 @@
       "2021-07-22": 1440,
       "2021-07-21": 1440,
       "2021-07-20": 1440,
-      "2021-07-19": 1440,
-      "2021-07-18": 1440
+      "2021-07-19": 1440
     }
   },
   {
@@ -645,18 +645,19 @@
     "icon": "https://favicons.githubusercontent.com/genesis.clouderg.com",
     "slug": "genesis-clouderg-com",
     "status": "down",
-    "uptime": "10.89%",
+    "uptime": "10.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.91%",
+    "uptimeYear": "7.69%",
     "time": 628,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2022-07-17": 18,
+      "2022-07-18": 17,
+      "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
       "2022-07-14": 1440,
@@ -994,8 +995,7 @@
       "2021-07-22": 1440,
       "2021-07-21": 1440,
       "2021-07-20": 1440,
-      "2021-07-19": 1440,
-      "2021-07-18": 1440
+      "2021-07-19": 1440
     }
   }
 ]
