@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-03": 20,
+      "2022-08-04": 18,
+      "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
@@ -379,8 +380,7 @@
       "2021-08-08": 1440,
       "2021-08-07": 1440,
       "2021-08-06": 1440,
-      "2021-08-05": 1440,
-      "2021-08-04": 1440
+      "2021-08-05": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://favicons.githubusercontent.com/smtp.clouderg.com",
     "slug": "smtp-clouderg-com",
     "status": "down",
-    "uptime": "93.50%",
+    "uptime": "93.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "47.88%",
-    "uptimeYear": "92.88%",
+    "uptimeMonth": "47.41%",
+    "uptimeYear": "92.60%",
     "time": 2586,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 4166,
-    "timeYear": 2702,
+    "timeMonth": 4219,
+    "timeYear": 2705,
     "dailyMinutesDown": {
-      "2022-08-03": 20,
+      "2022-08-04": 18,
+      "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
@@ -455,7 +456,7 @@
     "icon": "https://favicons.githubusercontent.com/smtp2.clouderg.com",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "46.61%",
+    "uptime": "46.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -464,9 +465,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 821,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-08-03": 20,
+      "2022-08-04": 18,
+      "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
@@ -647,8 +649,7 @@
       "2021-08-08": 1440,
       "2021-08-07": 1440,
       "2021-08-06": 1440,
-      "2021-08-05": 1440,
-      "2021-08-04": 1440
+      "2021-08-05": 1440
     }
   },
   {
@@ -657,18 +658,19 @@
     "icon": "https://favicons.githubusercontent.com/genesis.clouderg.com",
     "slug": "genesis-clouderg-com",
     "status": "down",
-    "uptime": "10.42%",
+    "uptime": "10.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.49%",
+    "uptimeYear": "5.36%",
     "time": 628,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 535,
+    "timeYear": 523,
     "dailyMinutesDown": {
-      "2022-08-03": 20,
+      "2022-08-04": 18,
+      "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
       "2022-07-31": 1440,
@@ -1013,8 +1015,7 @@
       "2021-08-08": 1440,
       "2021-08-07": 1440,
       "2021-08-06": 1440,
-      "2021-08-05": 1440,
-      "2021-08-04": 1440
+      "2021-08-05": 1440
     }
   }
 ]
