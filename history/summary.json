@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-11": 923,
+      "2022-09-12": 19,
+      "2022-09-11": 1440,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
@@ -379,8 +380,7 @@
       "2021-09-16": 1440,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
-      "2021-09-13": 1440,
-      "2021-09-12": 1440
+      "2021-09-13": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://favicons.githubusercontent.com/smtp.clouderg.com",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "85.20%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "5.65%",
-    "uptimeMonth": "0.00%",
+    "uptime": "85.21%",
+    "uptimeDay": "37.26%",
+    "uptimeWeek": "10.97%",
+    "uptimeMonth": "0.88%",
     "uptimeYear": "82.18%",
-    "time": 2572,
-    "timeDay": 326,
-    "timeWeek": 837,
-    "timeMonth": 1549,
+    "time": 2568,
+    "timeDay": 215,
+    "timeWeek": 714,
+    "timeMonth": 1418,
     "timeYear": 2826,
     "dailyMinutesDown": {
       "2022-09-11": 923,
@@ -490,18 +490,19 @@
     "icon": "https://favicons.githubusercontent.com/smtp2.clouderg.com",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "42.41%",
+    "uptime": "42.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "51.06%",
-    "time": 709,
-    "timeDay": 164,
-    "timeWeek": 308,
-    "timeMonth": 270,
-    "timeYear": 869,
+    "time": 708,
+    "timeDay": 337,
+    "timeWeek": 304,
+    "timeMonth": 273,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2022-09-11": 923,
+      "2022-09-12": 19,
+      "2022-09-11": 1440,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
@@ -682,8 +683,7 @@
       "2021-09-16": 1440,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
-      "2021-09-13": 1440,
-      "2021-09-12": 1440
+      "2021-09-13": 1440
     }
   },
   {
@@ -703,7 +703,8 @@
     "timeMonth": 0,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2022-09-11": 923,
+      "2022-09-12": 19,
+      "2022-09-11": 1440,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
       "2022-09-08": 1440,
@@ -1066,8 +1067,7 @@
       "2021-09-16": 1440,
       "2021-09-15": 1440,
       "2021-09-14": 1440,
-      "2021-09-13": 1440,
-      "2021-09-12": 1440
+      "2021-09-13": 1440
     }
   }
 ]
