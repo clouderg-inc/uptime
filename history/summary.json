@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-13": 22,
+      "2022-09-13": 134,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
@@ -388,18 +388,19 @@
     "url": "https://smtp.clouderg.com",
     "icon": "https://favicons.githubusercontent.com/smtp.clouderg.com",
     "slug": "smtp-clouderg-com",
-    "status": "up",
+    "status": "down",
     "uptime": "85.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "25.28%",
-    "uptimeMonth": "4.18%",
-    "uptimeYear": "82.18%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "26.39%",
+    "uptimeMonth": "4.43%",
+    "uptimeYear": "82.19%",
     "time": 2565,
     "timeDay": 338,
     "timeWeek": 661,
     "timeMonth": 1328,
     "timeYear": 2826,
     "dailyMinutesDown": {
+      "2022-09-13": 0,
       "2022-09-11": 923,
       "2022-09-10": 1440,
       "2022-09-09": 1440,
@@ -481,7 +482,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1262,
       "2022-06-15": 985,
-      "2022-06-14": 305
+      "2022-06-14": 283
     }
   },
   {
@@ -490,7 +491,7 @@
     "icon": "https://favicons.githubusercontent.com/smtp2.clouderg.com",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "42.28%",
+    "uptime": "42.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -501,7 +502,7 @@
     "timeMonth": 276,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2022-09-13": 22,
+      "2022-09-13": 134,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
@@ -703,7 +704,7 @@
     "timeMonth": 0,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2022-09-13": 22,
+      "2022-09-13": 134,
       "2022-09-12": 1440,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
