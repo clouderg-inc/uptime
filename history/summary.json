@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-27": 19,
+      "2022-11-28": 16,
+      "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
@@ -379,8 +380,7 @@
       "2021-12-02": 1440,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
-      "2021-11-29": 1440,
-      "2021-11-28": 1440
+      "2021-11-29": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "down",
-    "uptime": "73.56%",
+    "uptime": "73.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "62.63%",
-    "time": 2778,
+    "uptimeYear": "62.36%",
+    "time": 2782,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2923,
+    "timeYear": 2928,
     "dailyMinutesDown": {
-      "2022-11-27": 19,
+      "2022-11-28": 16,
+      "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
@@ -565,18 +566,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "36.13%",
+    "uptime": "36.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.66%",
-    "time": 617,
-    "timeDay": 113,
-    "timeWeek": 213,
-    "timeMonth": 225,
+    "uptimeYear": "45.38%",
+    "time": 616,
+    "timeDay": 218,
+    "timeWeek": 209,
+    "timeMonth": 228,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2022-11-27": 19,
+      "2022-11-28": 16,
+      "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
@@ -787,7 +789,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genesis.clouderg.com.ico",
     "slug": "genesis-clouderg-com",
     "status": "down",
-    "uptime": "8.08%",
+    "uptime": "8.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -796,9 +798,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 339,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2022-11-27": 19,
+      "2022-11-28": 16,
+      "2022-11-27": 1440,
       "2022-11-26": 1440,
       "2022-11-25": 1440,
       "2022-11-24": 1440,
@@ -1161,8 +1164,7 @@
       "2021-12-02": 1440,
       "2021-12-01": 1440,
       "2021-11-30": 1440,
-      "2021-11-29": 1440,
-      "2021-11-28": 1440
+      "2021-11-29": 1440
     }
   }
 ]
