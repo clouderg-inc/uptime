@@ -1,7 +1,7 @@
 url: https://smtp.clouderg.com
-status: down
-code: 500
-responseTime: 43
-lastUpdated: 2023-01-09T06:26:46.018Z
+status: up
+code: 200
+responseTime: 329
+lastUpdated: 2023-01-09T06:52:31.756Z
 startTime: Tue Jun 29 2021 03:24:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
