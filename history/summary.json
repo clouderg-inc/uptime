@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-22": 1360,
+      "2023-01-23": 16,
+      "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -379,8 +380,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
-      "2022-01-24": 1440,
-      "2022-01-23": 1440
+      "2022-01-24": 1440
     }
   },
   {
@@ -392,12 +392,12 @@
     "uptime": "68.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "43.07%",
+    "uptimeMonth": "43.29%",
     "uptimeYear": "50.90%",
-    "time": 2818,
-    "timeDay": 285,
-    "timeWeek": 211,
-    "timeMonth": 525,
+    "time": 2812,
+    "timeDay": 329,
+    "timeWeek": 202,
+    "timeMonth": 513,
     "timeYear": 2865,
     "dailyMinutesDown": {
       "2023-01-09": 379,
@@ -607,15 +607,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "36.65%",
+    "uptime": "36.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.58%",
+    "uptimeMonth": "75.80%",
     "uptimeYear": "36.55%",
-    "time": 657,
-    "timeDay": 305,
-    "timeWeek": 282,
-    "timeMonth": 297,
+    "time": 656,
+    "timeDay": 263,
+    "timeWeek": 294,
+    "timeMonth": 296,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2022-12-31": 222,
@@ -865,13 +865,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 311,
+    "time": 312,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 266,
+    "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-01-22": 1360,
+      "2023-01-23": 16,
+      "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
       "2023-01-19": 1440,
@@ -1234,8 +1235,7 @@
       "2022-01-27": 1440,
       "2022-01-26": 1440,
       "2022-01-25": 1440,
-      "2022-01-24": 1440,
-      "2022-01-23": 1440
+      "2022-01-24": 1440
     }
   }
 ]
