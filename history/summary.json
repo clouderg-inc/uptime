@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-03": 15,
+      "2023-05-04": 15,
+      "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
@@ -379,8 +380,7 @@
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
-      "2022-05-05": 1440,
-      "2022-05-04": 1440
+      "2022-05-05": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "down",
-    "uptime": "70.23%",
+    "uptime": "70.12%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.71%",
-    "uptimeMonth": "30.67%",
-    "uptimeYear": "45.12%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "28.93%",
+    "uptimeYear": "44.84%",
     "time": 2451,
     "timeDay": 0,
-    "timeWeek": 4790,
+    "timeWeek": 0,
     "timeMonth": 1862,
-    "timeYear": 2864,
+    "timeYear": 2870,
     "dailyMinutesDown": {
-      "2023-05-03": 15,
+      "2023-05-04": 15,
+      "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
@@ -632,16 +633,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "46.07%",
+    "uptime": "46.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "36.55%",
-    "time": 260,
-    "timeDay": 356,
-    "timeWeek": 284,
-    "timeMonth": 264,
-    "timeYear": 276,
+    "time": 261,
+    "timeDay": 328,
+    "timeWeek": 304,
+    "timeMonth": 266,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2022-12-31": 222,
       "2022-12-30": 317,
@@ -896,7 +897,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-03": 15,
+      "2023-05-04": 15,
+      "2023-05-03": 1440,
       "2023-05-02": 1440,
       "2023-05-01": 1440,
       "2023-04-30": 1440,
@@ -1259,8 +1261,7 @@
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 1440,
-      "2022-05-05": 1440,
-      "2022-05-04": 1440
+      "2022-05-05": 1440
     }
   }
 ]
