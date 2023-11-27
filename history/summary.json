@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-26": 17,
+      "2023-11-27": 16,
+      "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -379,8 +380,7 @@
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
-      "2022-11-28": 1440,
-      "2022-11-27": 1440
+      "2022-11-28": 1440
     }
   },
   {
@@ -389,14 +389,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "76.66%",
+    "uptime": "76.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "66.36%",
     "uptimeMonth": "92.26%",
-    "uptimeYear": "79.81%",
-    "time": 756,
-    "timeDay": 136,
-    "timeWeek": 420,
+    "uptimeYear": "80.08%",
+    "time": 740,
+    "timeDay": 317,
+    "timeWeek": 422,
     "timeMonth": 272,
     "timeYear": 455,
     "dailyMinutesDown": {
@@ -477,8 +477,7 @@
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
-      "2022-11-28": 1440,
-      "2022-11-27": 1440
+      "2022-11-28": 1440
     }
   },
   {
@@ -487,15 +486,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "58.76%",
+    "uptime": "58.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.57%",
-    "time": 312,
-    "timeDay": 395,
-    "timeWeek": 294,
-    "timeMonth": 286,
+    "uptimeYear": "90.85%",
+    "time": 311,
+    "timeDay": 220,
+    "timeWeek": 292,
+    "timeMonth": 288,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2023-09-21": 32,
@@ -533,8 +532,7 @@
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
-      "2022-11-28": 1440,
-      "2022-11-27": 1440
+      "2022-11-28": 1440
     }
   },
   {
@@ -543,7 +541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genesis.clouderg.com.ico",
     "slug": "genesis-clouderg-com",
     "status": "down",
-    "uptime": "4.74%",
+    "uptime": "4.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -554,7 +552,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-26": 17,
+      "2023-11-27": 16,
+      "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -917,8 +916,7 @@
       "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
-      "2022-11-28": 1440,
-      "2022-11-27": 1440
+      "2022-11-28": 1440
     }
   }
 ]
