@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-28": 16,
+      "2023-11-29": 16,
+      "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -379,8 +380,7 @@
       "2022-12-03": 1440,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
-      "2022-11-30": 1440,
-      "2022-11-29": 1440
+      "2022-11-30": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "76.71%",
+    "uptime": "76.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "66.36%",
     "uptimeMonth": "92.26%",
-    "uptimeYear": "80.36%",
-    "time": 738,
-    "timeDay": 100,
-    "timeWeek": 412,
-    "timeMonth": 268,
-    "timeYear": 453,
+    "uptimeYear": "80.63%",
+    "time": 737,
+    "timeDay": 112,
+    "timeWeek": 415,
+    "timeMonth": 263,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2023-11-24": 716,
       "2023-11-23": 1440,
@@ -475,8 +475,7 @@
       "2022-12-03": 1440,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
-      "2022-11-30": 1440,
-      "2022-11-29": 1440
+      "2022-11-30": 1440
     }
   },
   {
@@ -485,15 +484,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "58.85%",
+    "uptime": "58.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.12%",
+    "uptimeYear": "91.40%",
     "time": 311,
-    "timeDay": 326,
-    "timeWeek": 312,
-    "timeMonth": 289,
+    "timeDay": 317,
+    "timeWeek": 305,
+    "timeMonth": 294,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2023-09-21": 32,
@@ -529,8 +528,7 @@
       "2022-12-03": 1440,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
-      "2022-11-30": 1440,
-      "2022-11-29": 1440
+      "2022-11-30": 1440
     }
   },
   {
@@ -539,7 +537,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genesis.clouderg.com.ico",
     "slug": "genesis-clouderg-com",
     "status": "down",
-    "uptime": "4.73%",
+    "uptime": "4.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -550,7 +548,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-28": 16,
+      "2023-11-29": 16,
+      "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
@@ -913,8 +912,7 @@
       "2022-12-03": 1440,
       "2022-12-02": 1440,
       "2022-12-01": 1440,
-      "2022-11-30": 1440,
-      "2022-11-29": 1440
+      "2022-11-30": 1440
     }
   }
 ]
