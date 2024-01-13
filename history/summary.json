@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-12": 16,
+      "2024-01-13": 16,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -379,8 +380,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "down",
-    "uptime": "76.91%",
+    "uptime": "76.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.04%",
-    "uptimeYear": "89.52%",
-    "time": 459,
-    "timeDay": 452,
-    "timeWeek": 312,
-    "timeMonth": 366,
+    "uptimeMonth": "67.75%",
+    "uptimeYear": "89.25%",
+    "time": 458,
+    "timeDay": 394,
+    "timeWeek": 328,
+    "timeMonth": 375,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2024-01-12": 16,
+      "2024-01-13": 17,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -454,14 +455,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "60.84%",
+    "uptime": "60.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
     "time": 334,
-    "timeDay": 170,
-    "timeWeek": 243,
+    "timeDay": 367,
+    "timeWeek": 258,
     "timeMonth": 585,
     "timeYear": 352,
     "dailyMinutesDown": {
@@ -477,7 +478,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genesis.clouderg.com.ico",
     "slug": "genesis-clouderg-com",
     "status": "down",
-    "uptime": "4.50%",
+    "uptime": "4.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -488,7 +489,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-12": 16,
+      "2024-01-13": 17,
+      "2024-01-12": 1440,
       "2024-01-11": 1440,
       "2024-01-10": 1440,
       "2024-01-09": 1440,
@@ -851,8 +853,7 @@
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
-      "2023-01-14": 1440,
-      "2023-01-13": 1440
+      "2023-01-14": 1440
     }
   }
 ]
