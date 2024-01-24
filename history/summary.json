@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 1332,
+      "2024-01-24": 16,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -379,8 +380,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   },
   {
@@ -390,17 +390,16 @@
     "slug": "smtp-clouderg-com",
     "status": "up",
     "uptime": "76.86%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "60.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "60.48%",
     "uptimeYear": "88.64%",
-    "time": 438,
-    "timeDay": 663,
-    "timeWeek": 403,
+    "time": 437,
+    "timeDay": 676,
+    "timeWeek": 401,
     "timeMonth": 461,
-    "timeYear": 434,
+    "timeYear": 433,
     "dailyMinutesDown": {
-      "2024-01-23": 14,
       "2024-01-15": 320,
       "2024-01-14": 1440,
       "2024-01-13": 1440,
@@ -458,16 +457,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "61.33%",
+    "uptime": "61.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.96%",
     "time": 331,
-    "timeDay": 290,
+    "timeDay": 259,
     "timeWeek": 247,
-    "timeMonth": 560,
-    "timeYear": 351,
+    "timeMonth": 556,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2023-12-25": 59,
       "2023-12-24": 92,
@@ -492,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-23": 1332,
+      "2024-01-24": 17,
+      "2024-01-23": 1440,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -855,8 +855,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 1440,
-      "2023-01-24": 1440
+      "2023-01-25": 1440
     }
   }
 ]
