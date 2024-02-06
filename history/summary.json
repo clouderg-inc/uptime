@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-05": 16,
+      "2024-02-06": 15,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -379,8 +380,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 1440,
-      "2023-02-06": 1440
+      "2023-02-07": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "77.15%",
+    "uptime": "77.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "66.43%",
+    "uptimeMonth": "69.72%",
     "uptimeYear": "88.64%",
-    "time": 428,
-    "timeDay": 28,
-    "timeWeek": 170,
-    "timeMonth": 328,
+    "time": 423,
+    "timeDay": 239,
+    "timeWeek": 185,
+    "timeMonth": 327,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2024-01-15": 320,
@@ -457,16 +457,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "61.82%",
+    "uptime": "61.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 330,
-    "timeDay": 349,
-    "timeWeek": 303,
+    "timeDay": 245,
+    "timeWeek": 293,
     "timeMonth": 260,
-    "timeYear": 351,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2023-12-25": 59,
       "2023-12-24": 92,
@@ -491,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-05": 16,
+      "2024-02-06": 15,
+      "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -854,8 +855,7 @@
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
-      "2023-02-07": 1440,
-      "2023-02-06": 1440
+      "2023-02-07": 1440
     }
   }
 ]
