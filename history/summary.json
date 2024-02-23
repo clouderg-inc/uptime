@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-22": 15,
+      "2024-02-23": 15,
+      "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -379,8 +380,7 @@
       "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
-      "2023-02-24": 1440,
-      "2023-02-23": 1440
+      "2023-02-24": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "77.55%",
+    "uptime": "77.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.64%",
     "time": 418,
-    "timeDay": 607,
-    "timeWeek": 263,
-    "timeMonth": 229,
+    "timeDay": 272,
+    "timeWeek": 282,
+    "timeMonth": 234,
     "timeYear": 432,
     "dailyMinutesDown": {
       "2024-01-15": 320,
@@ -457,16 +457,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "62.50%",
+    "uptime": "62.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 334,
-    "timeDay": 325,
-    "timeWeek": 329,
-    "timeMonth": 314,
-    "timeYear": 353,
+    "timeDay": 192,
+    "timeWeek": 298,
+    "timeMonth": 311,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2023-12-25": 59,
       "2023-12-24": 92,
@@ -480,7 +480,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genesis.clouderg.com.ico",
     "slug": "genesis-clouderg-com",
     "status": "down",
-    "uptime": "4.31%",
+    "uptime": "4.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -491,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-22": 15,
+      "2024-02-23": 15,
+      "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -854,8 +855,7 @@
       "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
-      "2023-02-24": 1440,
-      "2023-02-23": 1440
+      "2023-02-24": 1440
     }
   }
 ]
