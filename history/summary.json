@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 781,
+      "2024-03-27": 15,
+      "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -379,8 +380,7 @@
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 1440
+      "2023-03-29": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "78.31%",
+    "uptime": "78.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.64%",
     "time": 400,
-    "timeDay": 530,
-    "timeWeek": 273,
-    "timeMonth": 196,
+    "timeDay": 437,
+    "timeWeek": 268,
+    "timeMonth": 195,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2024-01-15": 320,
@@ -447,8 +447,7 @@
       "2023-04-03": 660,
       "2023-03-31": 394,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 937
+      "2023-03-29": 1440
     }
   },
   {
@@ -457,15 +456,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "63.75%",
+    "uptime": "63.77%",
     "uptimeDay": "98.53%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 366,
-    "timeDay": 4630,
-    "timeWeek": 1747,
-    "timeMonth": 715,
+    "timeDay": 4697,
+    "timeWeek": 1746,
+    "timeMonth": 716,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2024-03-26": 21,
@@ -492,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-26": 781,
+      "2024-03-27": 15,
+      "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -855,8 +855,7 @@
       "2023-04-01": 1440,
       "2023-03-31": 1440,
       "2023-03-30": 1440,
-      "2023-03-29": 1440,
-      "2023-03-28": 1440
+      "2023-03-29": 1440
     }
   }
 ]
