@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-20": 23,
+      "2024-10-21": 21,
+      "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
@@ -379,8 +380,7 @@
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
-      "2023-10-23": 1440,
-      "2023-10-22": 1440
+      "2023-10-23": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "81.98%",
+    "uptime": "81.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "95.85%",
     "time": 373,
-    "timeDay": 117,
-    "timeWeek": 203,
-    "timeMonth": 1378,
-    "timeYear": 342,
+    "timeDay": 135,
+    "timeWeek": 198,
+    "timeMonth": 1379,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2024-10-07": 381,
       "2024-09-15": 58,
@@ -429,16 +429,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "69.97%",
+    "uptime": "70.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 904,
-    "timeDay": 3734,
-    "timeWeek": 3150,
-    "timeMonth": 2263,
-    "timeYear": 1067,
+    "time": 932,
+    "timeDay": 14042,
+    "timeWeek": 4721,
+    "timeMonth": 2624,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2024-03-26": 21,
       "2023-12-25": 59,
@@ -462,7 +462,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-20": 23,
+      "2024-10-21": 21,
+      "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
@@ -825,8 +826,7 @@
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
-      "2023-10-23": 1440,
-      "2023-10-22": 1440
+      "2023-10-23": 1440
     }
   }
 ]
