@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-29": 23,
+      "2024-12-30": 22,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -379,8 +380,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "82.70%",
+    "uptime": "82.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "74.17%",
     "uptimeMonth": "88.62%",
     "uptimeYear": "95.58%",
     "time": 374,
-    "timeDay": 140,
-    "timeWeek": 216,
-    "timeMonth": 446,
-    "timeYear": 355,
+    "timeDay": 116,
+    "timeWeek": 209,
+    "timeMonth": 447,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2024-12-24": 1198,
       "2024-12-23": 1406,
@@ -430,16 +430,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "70.79%",
+    "uptime": "70.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "56.82%",
+    "uptimeWeek": "71.09%",
     "uptimeMonth": "65.35%",
     "uptimeYear": "97.11%",
-    "time": 1359,
-    "timeDay": 400,
-    "timeWeek": 314,
-    "timeMonth": 1428,
-    "timeYear": 1662,
+    "time": 1360,
+    "timeDay": 354,
+    "timeWeek": 321,
+    "timeMonth": 1403,
+    "timeYear": 1663,
     "dailyMinutesDown": {
       "2024-12-25": 56,
       "2024-12-24": 1440,
@@ -473,7 +473,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-29": 23,
+      "2024-12-30": 22,
+      "2024-12-29": 1440,
       "2024-12-28": 1440,
       "2024-12-27": 1440,
       "2024-12-26": 1440,
@@ -836,8 +837,7 @@
       "2024-01-04": 1440,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
-      "2024-01-01": 1440,
-      "2023-12-31": 1440
+      "2024-01-01": 1440
     }
   }
 ]
