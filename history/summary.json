@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-18": 19,
+      "2025-01-19": 22,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -379,8 +380,7 @@
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
-      "2024-01-21": 1440,
-      "2024-01-20": 1440
+      "2024-01-21": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "down",
-    "uptime": "81.60%",
+    "uptime": "81.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.22%",
-    "uptimeYear": "93.94%",
+    "uptimeMonth": "31.93%",
+    "uptimeYear": "93.66%",
     "time": 378,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 215,
+    "timeMonth": 219,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-01-18": 19,
+      "2025-01-19": 22,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -436,15 +437,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "71.24%",
+    "uptime": "71.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.91%",
+    "uptimeMonth": "80.20%",
     "uptimeYear": "97.11%",
     "time": 1336,
-    "timeDay": 205,
-    "timeWeek": 308,
-    "timeMonth": 315,
+    "timeDay": 358,
+    "timeWeek": 300,
+    "timeMonth": 317,
     "timeYear": 1666,
     "dailyMinutesDown": {
       "2024-12-25": 56,
@@ -479,7 +480,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-18": 19,
+      "2025-01-19": 22,
+      "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -842,8 +844,7 @@
       "2024-01-24": 1440,
       "2024-01-23": 1440,
       "2024-01-22": 1440,
-      "2024-01-21": 1440,
-      "2024-01-20": 1440
+      "2024-01-21": 1440
     }
   }
 ]
