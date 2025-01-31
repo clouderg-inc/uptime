@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 20,
+      "2025-01-31": 20,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -379,8 +380,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "down",
-    "uptime": "80.85%",
+    "uptime": "80.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.72%",
-    "uptimeYear": "90.65%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "90.38%",
     "time": 345,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 126,
-    "timeYear": 345,
+    "timeMonth": 0,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-01-30": 20,
+      "2025-01-31": 20,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -448,14 +449,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "71.50%",
+    "uptime": "71.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.11%",
     "time": 1336,
-    "timeDay": 217,
-    "timeWeek": 332,
+    "timeDay": 333,
+    "timeWeek": 339,
     "timeMonth": 319,
     "timeYear": 1668,
     "dailyMinutesDown": {
@@ -491,7 +492,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-30": 20,
+      "2025-01-31": 20,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -854,8 +856,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   }
 ]
