@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-25": 21,
+      "2025-02-26": 21,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -379,8 +380,7 @@
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
-      "2024-02-28": 1440,
-      "2024-02-27": 1440
+      "2024-02-28": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "down",
-    "uptime": "79.28%",
+    "uptime": "79.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.53%",
+    "uptimeYear": "83.25%",
     "time": 347,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 358,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2025-02-25": 21,
+      "2025-02-26": 21,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -474,15 +475,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "72.06%",
+    "uptime": "72.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.11%",
     "time": 1338,
-    "timeDay": 391,
-    "timeWeek": 268,
-    "timeMonth": 339,
+    "timeDay": 284,
+    "timeWeek": 274,
+    "timeMonth": 335,
     "timeYear": 1670,
     "dailyMinutesDown": {
       "2024-12-25": 56,
@@ -517,7 +518,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-25": 21,
+      "2025-02-26": 21,
+      "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
@@ -880,8 +882,7 @@
       "2024-03-02": 1440,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
-      "2024-02-28": 1440,
-      "2024-02-27": 1440
+      "2024-02-28": 1440
     }
   }
 ]
