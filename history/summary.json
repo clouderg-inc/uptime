@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-01": 23,
+      "2025-03-02": 23,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -379,8 +380,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "79.26%",
+    "uptime": "79.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "42.52%",
-    "uptimeMonth": "17.74%",
+    "uptimeWeek": "56.80%",
+    "uptimeMonth": "21.03%",
     "uptimeYear": "83.24%",
-    "time": 346,
-    "timeDay": 117,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 359,
+    "time": 347,
+    "timeDay": 368,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2025-02-26": 57,
       "2025-02-25": 1440,
@@ -475,15 +475,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "72.14%",
+    "uptime": "72.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.11%",
     "time": 1339,
-    "timeDay": 348,
-    "timeWeek": 353,
-    "timeMonth": 352,
+    "timeDay": 201,
+    "timeWeek": 354,
+    "timeMonth": 349,
     "timeYear": 1674,
     "dailyMinutesDown": {
       "2024-12-25": 56,
@@ -518,7 +518,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-01": 24,
+      "2025-03-02": 23,
+      "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -881,8 +882,7 @@
       "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
-      "2024-03-03": 1440,
-      "2024-03-02": 1440
+      "2024-03-03": 1440
     }
   }
 ]
