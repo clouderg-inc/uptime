@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 22,
+      "2025-04-27": 25,
+      "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -379,8 +380,7 @@
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
-      "2024-04-28": 1440,
-      "2024-04-27": 1440
+      "2024-04-28": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "79.37%",
+    "uptime": "79.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "80.56%",
-    "time": 323,
-    "timeDay": 64,
-    "timeWeek": 137,
-    "timeMonth": 181,
-    "timeYear": 366,
+    "time": 324,
+    "timeDay": 558,
+    "timeWeek": 203,
+    "timeMonth": 194,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2025-03-20": 660,
       "2025-03-19": 1440,
@@ -486,15 +486,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "73.26%",
+    "uptime": "73.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.11%",
-    "time": 1324,
-    "timeDay": 435,
-    "timeWeek": 375,
-    "timeMonth": 340,
+    "time": 1322,
+    "timeDay": 194,
+    "timeWeek": 347,
+    "timeMonth": 332,
     "timeYear": 1649,
     "dailyMinutesDown": {
       "2024-12-25": 56,
@@ -528,7 +528,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-26": 22,
+      "2025-04-27": 25,
+      "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -891,8 +892,7 @@
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
-      "2024-04-28": 1440,
-      "2024-04-27": 1440
+      "2024-04-28": 1440
     }
   }
 ]
