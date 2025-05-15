@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 24,
+      "2025-05-15": 22,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -379,8 +380,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "79.23%",
+    "uptime": "79.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "42.04%",
+    "uptimeWeek": "56.31%",
     "uptimeMonth": "80.81%",
     "uptimeYear": "78.97%",
     "time": 351,
-    "timeDay": 144,
-    "timeWeek": 1859,
-    "timeMonth": 573,
+    "timeDay": 138,
+    "timeWeek": 1613,
+    "timeMonth": 563,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2025-05-11": 107,
@@ -493,16 +493,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "up",
-    "uptime": "73.60%",
+    "uptime": "73.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.11%",
     "time": 1316,
-    "timeDay": 460,
-    "timeWeek": 303,
-    "timeMonth": 323,
-    "timeYear": 1649,
+    "timeDay": 310,
+    "timeWeek": 308,
+    "timeMonth": 327,
+    "timeYear": 1648,
     "dailyMinutesDown": {
       "2024-12-25": 56,
       "2024-12-24": 1440,
@@ -524,7 +524,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genesis.clouderg.com.ico",
     "slug": "genesis-clouderg-com",
     "status": "down",
-    "uptime": "2.95%",
+    "uptime": "2.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -535,7 +535,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-14": 24,
+      "2025-05-15": 22,
+      "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
@@ -898,8 +899,7 @@
       "2024-05-19": 1440,
       "2024-05-18": 1440,
       "2024-05-17": 1440,
-      "2024-05-16": 1440,
-      "2024-05-15": 1440
+      "2024-05-16": 1440
     }
   }
 ]
