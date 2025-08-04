@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 29,
+      "2025-08-04": 29,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -379,8 +380,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "80.35%",
+    "uptime": "80.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.97%",
     "time": 350,
-    "timeDay": 381,
-    "timeWeek": 242,
-    "timeMonth": 207,
-    "timeYear": 399,
+    "timeDay": 228,
+    "timeWeek": 262,
+    "timeMonth": 209,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2025-05-11": 107,
       "2025-05-10": 1440,
@@ -493,18 +493,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "70.29%",
+    "uptime": "70.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.70%",
-    "time": 1463,
+    "uptimeYear": "77.43%",
+    "time": 1465,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1820,
+    "timeYear": 1825,
     "dailyMinutesDown": {
-      "2025-08-03": 29,
+      "2025-08-04": 29,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -596,7 +597,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/genesis.clouderg.com.ico",
     "slug": "genesis-clouderg-com",
     "status": "down",
-    "uptime": "2.79%",
+    "uptime": "2.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -607,7 +608,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-03": 29,
+      "2025-08-04": 29,
+      "2025-08-03": 1440,
       "2025-08-02": 1440,
       "2025-08-01": 1440,
       "2025-07-31": 1440,
@@ -970,8 +972,7 @@
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
-      "2024-08-05": 1440,
-      "2024-08-04": 1440
+      "2024-08-05": 1440
     }
   }
 ]
