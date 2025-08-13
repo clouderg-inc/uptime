@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-12": 24,
+      "2025-08-13": 25,
+      "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -379,8 +380,7 @@
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
-      "2024-08-14": 1440,
-      "2024-08-13": 1440
+      "2024-08-14": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "80.47%",
+    "uptime": "80.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.97%",
-    "time": 347,
-    "timeDay": 148,
-    "timeWeek": 172,
-    "timeMonth": 200,
+    "time": 348,
+    "timeDay": 343,
+    "timeWeek": 170,
+    "timeMonth": 206,
     "timeYear": 399,
     "dailyMinutesDown": {
       "2025-05-11": 107,
@@ -493,18 +493,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "69.87%",
+    "uptime": "69.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.24%",
-    "time": 1487,
+    "uptimeYear": "74.97%",
+    "time": 1490,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1788,
+    "timeYear": 1780,
     "dailyMinutesDown": {
-      "2025-08-12": 24,
+      "2025-08-13": 25,
+      "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -616,7 +617,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-12": 24,
+      "2025-08-13": 25,
+      "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
@@ -979,8 +981,7 @@
       "2024-08-17": 1440,
       "2024-08-16": 1440,
       "2024-08-15": 1440,
-      "2024-08-14": 1440,
-      "2024-08-13": 1440
+      "2024-08-14": 1440
     }
   }
 ]
