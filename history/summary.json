@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-01": 26,
+      "2025-10-02": 22,
+      "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -379,8 +380,7 @@
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
-      "2024-10-03": 1440,
-      "2024-10-02": 1440
+      "2024-10-03": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "78.96%",
+    "uptime": "78.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.27%",
-    "uptimeMonth": "23.60%",
+    "uptimeWeek": "96.26%",
+    "uptimeMonth": "26.88%",
     "uptimeYear": "69.80%",
-    "time": 335,
-    "timeDay": 384,
-    "timeWeek": 495,
-    "timeMonth": 456,
-    "timeYear": 435,
+    "time": 334,
+    "timeDay": 373,
+    "timeWeek": 257,
+    "timeMonth": 449,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2025-09-25": 399,
       "2025-09-24": 1011,
@@ -528,18 +528,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "67.63%",
+    "uptime": "67.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.54%",
-    "time": 1653,
+    "uptimeYear": "61.27%",
+    "time": 1656,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1429,
+    "timeYear": 1427,
     "dailyMinutesDown": {
-      "2025-10-01": 26,
+      "2025-10-02": 22,
+      "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -701,7 +702,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-01": 26,
+      "2025-10-02": 22,
+      "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
@@ -1064,8 +1066,7 @@
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
-      "2024-10-03": 1440,
-      "2024-10-02": 1440
+      "2024-10-03": 1440
     }
   }
 ]
