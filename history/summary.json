@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-21": 1081,
+      "2026-01-21": 1297,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -388,15 +388,15 @@
     "url": "https://smtp.clouderg.com",
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
-    "status": "up",
-    "uptime": "96.29%",
-    "uptimeDay": "85.98%",
-    "uptimeWeek": "75.06%",
+    "status": "down",
+    "uptime": "96.30%",
+    "uptimeDay": "85.97%",
+    "uptimeWeek": "75.52%",
     "uptimeMonth": "73.46%",
-    "uptimeYear": "83.04%",
-    "time": 729,
+    "uptimeYear": "83.08%",
+    "time": 730,
     "timeDay": 1588,
-    "timeWeek": 2935,
+    "timeWeek": 2971,
     "timeMonth": 2250,
     "timeYear": 812,
     "dailyMinutesDown": {
@@ -495,9 +495,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 980,
-      "2025-03-08": 74,
-      "2025-03-07": 85
+      "2025-03-10": 980
     }
   },
   {
@@ -510,14 +508,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.54%",
+    "uptimeYear": "33.50%",
     "time": 1488,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2026-01-21": 1082,
+      "2026-01-21": 1297,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
@@ -779,7 +777,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-21": 1082,
+      "2026-01-21": 1297,
       "2026-01-20": 1440,
       "2026-01-19": 1440,
       "2026-01-18": 1440,
