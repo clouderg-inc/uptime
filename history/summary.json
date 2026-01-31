@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-30": 385,
+      "2026-01-31": 30,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -379,8 +380,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "66.15%",
-    "uptimeMonth": "80.95%",
-    "uptimeYear": "96.27%",
-    "time": 835,
-    "timeDay": 307,
-    "timeWeek": 1448,
-    "timeMonth": 2173,
+    "uptime": "99.14%",
+    "uptimeDay": "24.70%",
+    "uptimeWeek": "56.59%",
+    "uptimeMonth": "78.48%",
+    "uptimeYear": "96.07%",
+    "time": 837,
+    "timeDay": 0,
+    "timeWeek": 1239,
+    "timeMonth": 2189,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2026-01-30": 0,
+      "2026-01-31": 30,
+      "2026-01-30": 1055,
       "2026-01-27": 447,
       "2026-01-26": 1440,
       "2026-01-25": 1239,
@@ -453,18 +454,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "62.73%",
+    "uptime": "62.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.21%",
-    "time": 1444,
+    "uptimeYear": "31.00%",
+    "time": 1447,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2026-01-30": 385,
+      "2026-01-31": 30,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -735,7 +737,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-30": 386,
+      "2026-01-31": 30,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -1098,8 +1101,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   }
 ]
