@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-25": 40,
+      "2026-04-26": 45,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -379,8 +380,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "95.08%",
+    "uptime": "95.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "36.83%",
+    "uptimeMonth": "40.13%",
     "uptimeYear": "76.28%",
     "time": 826,
-    "timeDay": 354,
-    "timeWeek": 208,
-    "timeMonth": 195,
+    "timeDay": 203,
+    "timeWeek": 218,
+    "timeMonth": 196,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2026-04-13": 352,
@@ -526,18 +526,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "59.71%",
+    "uptime": "59.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.99%",
+    "uptimeYear": "7.71%",
     "time": 329,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 318,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2026-04-25": 40,
+      "2026-04-26": 45,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -893,7 +894,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-25": 40,
+      "2026-04-26": 45,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -1256,8 +1258,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   }
 ]
