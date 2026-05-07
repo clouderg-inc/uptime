@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 44,
+      "2026-05-07": 47,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -379,8 +380,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp.clouderg.com.ico",
     "slug": "smtp-clouderg-com",
     "status": "up",
-    "uptime": "95.11%",
+    "uptime": "95.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.28%",
+    "uptimeMonth": "79.58%",
     "uptimeYear": "76.28%",
     "time": 823,
-    "timeDay": 101,
-    "timeWeek": 180,
-    "timeMonth": 185,
-    "timeYear": 935,
+    "timeDay": 116,
+    "timeWeek": 143,
+    "timeMonth": 182,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2026-04-13": 352,
       "2026-04-12": 1440,
@@ -526,18 +526,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/smtp2.clouderg.com.ico",
     "slug": "smtp2-clouderg-com",
     "status": "down",
-    "uptime": "59.34%",
+    "uptime": "59.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.97%",
+    "uptimeYear": "4.70%",
     "time": 329,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 306,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2026-05-06": 44,
+      "2026-05-07": 47,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -904,7 +905,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-06": 44,
+      "2026-05-07": 47,
+      "2026-05-06": 1440,
       "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
@@ -1267,8 +1269,7 @@
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
-      "2025-05-08": 1440,
-      "2025-05-07": 1440
+      "2025-05-08": 1440
     }
   }
 ]
